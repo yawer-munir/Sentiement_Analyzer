@@ -1,4 +1,4 @@
-# Sentiement_Analyzer
+# Sentiment_Analyzer
 User can use this AI_based web app for sentiment analysis/emotion detection
 - Friendly User Interface
 - Deployed on Hugging Face
